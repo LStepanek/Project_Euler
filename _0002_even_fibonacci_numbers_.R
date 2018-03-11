@@ -24,13 +24,17 @@
 ## If we take a closer look at Fibonacci sequence, we can notice that
 ## the second one and then every third number in sequence
 
-##     1, 2, 3, 5, 8, 13, 21, 34, 55, 89
+##     1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 
-## is even and the sequence of even numbers follow following recursive formula
+## is even, i. e. the sequence
+
+##     2, 8, 34, 144, 610, 2584, ...
+
+## of even numbers follows the following recursive formula
 
 ##     EF_{n} = 4 EF_{n-1} + EF_{n-2}
 
-## with seed values EF_{0} = 0 and EF_{1} = 2.
+## with seed values EF_{1} = 2 and EF_{2} = 8.
 
 ## Let us take a look original Fibonacci Formula and write it in the
 ## form of F_{n-3} and F_{n-6} because of the fact that the second one and then

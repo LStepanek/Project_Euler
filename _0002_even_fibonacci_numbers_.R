@@ -81,7 +81,7 @@ while(
     
 }
 
-sum(my_fibonacci_sequence)
+sum(my_fibonacci_sequence)   # 4613732
 
 
 ## -----------------------------------------------------------------------------

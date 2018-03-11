@@ -19,17 +19,17 @@
 
 ## solved by using list-comprehensions in R ------------------------------------
 
-with(x <- data.frame(1:999), sum(x[x %% 3 == 0 | x %% 5 == 0]))
+with(x <- data.frame(1:999), sum(x[x %% 3 == 0 | x %% 5 == 0]))      # 233168
 
 
 ## or
 
-unname(by(x <- 1:999, x %% 3 == 0 | x %% 5 == 0, sum)["TRUE"])
+unname(by(x <- 1:999, x %% 3 == 0 | x %% 5 == 0, sum)["TRUE"])       # 233168
 
 
 ## or
 
-unname(tapply(x <- 1:999, x %% 3 == 0 | x %% 5 == 0, sum)["TRUE"])
+unname(tapply(x <- 1:999, x %% 3 == 0 | x %% 5 == 0, sum)["TRUE"])   # 233168
 
 
 ## -----------------------------------------------------------------------------

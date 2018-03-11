@@ -8,3 +8,6 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 ## Problems and Solutions
 
 - Problem 1: [Multiples of 3 and 5](https://projecteuler.net/problem=1).
+   Problem task:
+   My solution:
+- Problem 2:

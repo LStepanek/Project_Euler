@@ -6,3 +6,5 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 
 ## Problems and Solutions
+
+- Problem 1 (https://projecteuler.net/problem=1)

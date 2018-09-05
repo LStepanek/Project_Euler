@@ -16,6 +16,6 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 4: [Largest palindrome product](https://projecteuler.net/problem=4). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0004_largest_palindrome_product_.R).
 
 
---
+---
 
 <b>DISCLAIMER</b>. Since Project Euler advises against sharing solving codes, please DO NOT browse through my codes unless you have solved the problems yourself! If hints are what you are looking for, you will not find them here.

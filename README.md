@@ -18,5 +18,4 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 ---
 
-<b>DISCLAIMER</b>. Please DO NOT browse through my codes unless you have solved the problems yourself.
-Project Euler advises against sharing the code in order to avoid taking the fun away of people who are looking for hints/ideas on how to solve the problems, so if hints are what you're looking for, you won't find them here. 
+<b>DISCLAIMER</b>. Since Project Euler advises against sharing solving codes, please DO NOT browse through my codes unless you have solved the problems yourself! If hints are what you are looking for, you will not find them here.

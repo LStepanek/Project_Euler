@@ -319,9 +319,10 @@ leastCommonMultiple <- function(
 
 ## -----------------------------------------------------------------------------
 
+n <- 20
 my_least_common_multiple <- 1
 
-for(i in 2:20){
+for(i in 2:n){
     
     my_least_common_multiple <- leastCommonMultiple(
         my_least_common_multiple,

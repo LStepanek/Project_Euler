@@ -51,7 +51,7 @@ n <- 100
 
 (n * (n + 1) / 2) ^ 2 - n * (n + 1) * (2 * n + 1) / 6  # 25164150
 
-# in more R way as
+# in more "R-like" way as
 # > sum(c(1:n)) ^ 2 - sum(c(1:n) ^ 2)                  # 25164150
 
 

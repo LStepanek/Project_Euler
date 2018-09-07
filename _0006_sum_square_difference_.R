@@ -24,8 +24,8 @@
 
 ################################################################################
 
-## We can derive both sum of the squares of the first "n" natural numbers
-## and square of the sum of the first "n" natural numbers from Faulhaber's
+## We can derive both the sum of the squares of the first "n" natural numbers
+## and the square of the sum of the first "n" natural numbers from Faulhaber's
 ## formula.
 
 ## We get

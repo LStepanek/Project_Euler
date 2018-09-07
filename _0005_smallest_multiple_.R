@@ -185,23 +185,24 @@ leastCommonMultiple <- function(
     
     a,
     b,
-    type = c("euklid", "factorization")
+    algorithm = c("euklid", "factorization")
     
 ){
     
     # '''
     # Return a least common multiple for the given natural
-    # numbers "a" and "b".
+    # numbers "a" and "b" using either "euklid" or "factorization"
+    # algorithm.
     # '''
     
     if(
-        ! type %in% c("euklid", "factorization")
+        ! algorithm %in% c("euklid", "factorization")
     ){
         stop("Please select 'euklid' or 'factorization' type of algorithm.")
     }
     
     if(
-        type == "euklid"
+        algorithm == "euklid"
     ){
         
         return(
@@ -211,7 +212,7 @@ leastCommonMultiple <- function(
     }
     
     if(
-        type == "factorization"
+        algorithm == "factorization"
     ){
         
         my_output <- list(
@@ -325,7 +326,7 @@ for(i in 2:20){
     my_least_common_multiple <- leastCommonMultiple(
         my_least_common_multiple,
         i,
-        type = "euklid" # "factorization" option is much more slower ...
+        algorithm = "euklid" # "factorization" option is much more slower ...
     )
     
 }

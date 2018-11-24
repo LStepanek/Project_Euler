@@ -16,6 +16,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 4: [Largest palindrome product](https://projecteuler.net/problem=4). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0004_largest_palindrome_product_.R).
 - Problem 5: [Smallest multiple](https://projecteuler.net/problem=5). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0005_smallest_multiple_.R).
 - Problem 6: [Sum square difference](https://projecteuler.net/problem=6). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0006_sum_square_difference_.R).
+- Problem 7: [10001st prime](https://projecteuler.net/problem=7). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0007_10001st_prime_.R).
 
 
 ---

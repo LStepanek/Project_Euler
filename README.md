@@ -17,6 +17,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 5: [Smallest multiple](https://projecteuler.net/problem=5). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0005_smallest_multiple_.R).
 - Problem 6: [Sum square difference](https://projecteuler.net/problem=6). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0006_sum_square_difference_.R).
 - Problem 7: [10001st prime](https://projecteuler.net/problem=7). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0007_10001st_prime_.R).
+- Problem 8: [Largest product in a series](https://projecteuler.net/problem=8). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0008_largest_product_in_a_series_.R).
 
 
 ---

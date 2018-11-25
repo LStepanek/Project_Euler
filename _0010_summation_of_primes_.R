@@ -86,8 +86,10 @@ getAllMyPrimes <- function(
 
 n <- 2000000
 
-sum(
-    getAllMyPrimes(n - 1)
+print(
+    sum(
+        getAllMyPrimes(n - 1)
+    )
 )   # 142913828922
 
 

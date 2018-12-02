@@ -21,8 +21,16 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
         align="left"
       >
     </td>
+    <td align = "center">
+      The Journey Begins
+    </td>
     <td>
-      <span align="center">The Journey Begins</span>
+      <img
+        src="https://projecteuler.net/images/awards/award_03.png"
+        alt=""
+        style="width:200px"
+        align="right"
+      >
     </td>
     <td>
       <img

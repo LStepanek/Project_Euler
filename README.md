@@ -11,7 +11,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 ## My Problem Solving Awards
 
 
-<p align="center">
+<center>
 <table align="center">
   <tr>
     <td>
@@ -41,6 +41,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
   </tr>
 </table>
 </p>
+</center>
 
 
 ## Problems and Solutions

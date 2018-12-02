@@ -21,7 +21,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
         align="left"
       >
     </td>
-    <td align = "center">
+    <td align = "center" width = "200px">
       The Journey Begins
     </td>
     <td>
@@ -32,53 +32,20 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
         align="right"
       >
     </td>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="right"
-      >
+    <td align = "center" width = "200px">
+      Flawless Fifty
     </td>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="right"
-      >
+    <td align = "center" width = "200px">
+      Flawless Fifty
     </td>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="right"
-      >
+    <td align = "center" width = "200px">
+      Flawless Fifty
     </td>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="right"
-      >
+    <td align = "center" width = "200px">
+      Flawless Fifty
     </td>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="right"
-      >
-    </td>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="right"
-      >
+    <td align = "center" width = "200px">
+      Flawless Fifty
     </td>
   </tr>
 </table>

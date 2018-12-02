@@ -11,10 +11,9 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 ## My Problem Solving Awards
 
 
-<center>
-<table align="center" width="50%" border="0">
+<table align="center" width="100%" border="0">
   <tr>
-    <td align = "center" width = "100px">
+    <td align = "center" width = "12.5%">
       <img
         src="https://projecteuler.net/images/awards/award_01.png"
         alt=""
@@ -22,10 +21,10 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
         align="center"
       >
     </td>
-    <td align = "center" width = "100px">
+    <td align = "center" width = "12.5%">
       The Journey Begins
     </td>
-    <td align = "center" width = "100px">
+    <td align = "center" width = "12.5%">
       <img
         src="https://projecteuler.net/images/awards/award_03.png"
         alt=""
@@ -33,24 +32,23 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
         align="center"
       >
     </td>
-    <td align = "center" width = "100px">
+    <td align = "center" width = "12.5%">
       Flawless Fifty
     </td>
-    <td align = "center" width = "100px">
+    <td align = "center" width = "12.5%">
       C for Commitment
     </td>
-    <td align = "center" width = "100px">
+    <td align = "center" width = "12.5%">
       CC for Continued Commitment
     </td>
-    <td align = "center" width = "100px">
+    <td align = "center" width = "12.5%">
       D for Dedication
     </td>
-    <td align = "center" width = "100px">
+    <td align = "center" width = "12.5%">
       As Easy As Pi
     </td>
   </tr>
 </table>
-</center>
 
 
 ## Problems and Solutions

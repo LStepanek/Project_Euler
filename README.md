@@ -22,6 +22,49 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
       >
     </td>
     <td>
+      <span align="center">The Journey Begins</span>
+    </td>
+    <td>
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        alt=""
+        style="width:200px"
+        align="right"
+      >
+    </td>
+    <td>
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        alt=""
+        style="width:200px"
+        align="right"
+      >
+    </td>
+    <td>
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        alt=""
+        style="width:200px"
+        align="right"
+      >
+    </td>
+    <td>
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        alt=""
+        style="width:200px"
+        align="right"
+      >
+    </td>
+    <td>
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        alt=""
+        style="width:200px"
+        align="right"
+      >
+    </td>
+    <td>
       <img
         src="https://projecteuler.net/images/awards/award_01.png"
         alt=""
@@ -31,125 +74,6 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
     </td>
   </tr>
 </table>
-
-
-<div align="center">
-  <img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="right" style="float:right"/>
-  <img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="left" style="float:left" />
-</div>
-
-
-
-
-<div id="problems_solving_awards_section">
-<h3>Problem Solving Awards</h3>
-<table id="problem_solving_awards_table" class="grid">
-<tr>
-<td>
-<div class="info"><a href="award=1"><img src="images/awards/award_01.png" /><span><div class="heading">Baby Steps</div>Solve three problems<div style="font-size:85%;font-weight:bold;color:#070;">Completed</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=2">The Journey Begins<span><div class="heading">The Journey Begins</div>Progress to Level 1 by solving twenty-five problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 25</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=3"><img src="images/awards/award_03.png" /><span><div class="heading">Decathlete</div>Solve ten consecutive problems<div style="font-size:85%;font-weight:bold;color:#070;">Completed</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=4">Flawless Fifty<span><div class="heading">Flawless Fifty</div>Solve fifty consecutive problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 50</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=5">C for Commitment<span><div class="heading">C for Commitment</div>Solve the first one-hundred problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 100</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=6">CC for Continued Commitment<span><div class="heading">CC for Continued Commitment</div>Solve the first two-hundred problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 200</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=7">D for Dedication<span><div class="heading">D for Dedication</div>Solve the first five-hundred problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 500</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=11">As Easy As Pi<span><div class="heading">As Easy As Pi</div>Solve problems 3, 14, 15, 92, 65, 35, 89, 79, 32, 38, and 46<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 1 / 11</div></span></a></div>
-</td>
-</tr>
-<tr>
-<td>
-<div class="info"><a href="award=12">Unlucky Squares<span><div class="heading">Unlucky Squares</div>Solve thirteen square numbered problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 3 / 13</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=15">Prime Obsession<span><div class="heading">Prime Obsession</div>Solve fifty prime numbered problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 4 / 50</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=16">Trinary Triumph<span><div class="heading">Trinary Triumph</div>Solve problems 1, 3, 9, 27, 81, and 243<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 3 / 6</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=17">Fibonacci Fever<span><div class="heading">Fibonacci Fever</div>Solve the first twelve Fibonacci numbered problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 5 / 12</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=18">Triangle Trophy<span><div class="heading">Triangle Trophy</div>Solve the first twenty-five triangle numbered problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 4 / 25</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=19">Lucky Luke<span><div class="heading">Lucky Luke</div>Solve fifty lucky numbered problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 4 / 50</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=21">Daring Dozen<span><div class="heading">Daring Dozen</div>Solve twelve problems with an ID containing three digits<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 0 / 12</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=22">Decimation I<span><div class="heading">Decimation I</div>Solve one in every ten problems from problems 101 to 200<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 0 / 10</div></span></a></div>
-</td>
-</tr>
-<tr>
-<td>
-<div class="info"><a href="award=23">Decimation II<span><div class="heading">Decimation II</div>Solve one in every ten problems from problems 201 to 300<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 0 / 10</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=24">Ultimate Decimator<span><div class="heading">Ultimate Decimator</div>Solve one in every ten problems from problems 1 to 400<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 1 / 40</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=25">One Percenter<span><div class="heading">One Percenter</div>Better than 99% = One badass problem solver<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 111</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=26">High Flyer<span><div class="heading">High Flyer</div>Progress to the maximum level</span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=27">Perfection<span><div class="heading">Perfection</div>Solve every problem<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 645</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=28">The Archivist<span><div class="heading">The Archivist</div>Solve half of the problems in the archives<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 318</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=29">Master of Archives<span><div class="heading">Master of Archives</div>Solve every problem in the archives<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 635</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=31">On The Ball<span><div class="heading">On The Ball</div>Solve the most recent problem</span></a></div>
-</td>
-</tr>
-<tr>
-<td>
-<div class="info"><a href="award=32">High Five<span><div class="heading">High Five</div>Solve the five most recent problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 0 / 5</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=33">Ten Out Of Ten<span><div class="heading">Ten Out Of Ten</div>Solve the ten most recent problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 0 / 10</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=34">State Of The Art<span><div class="heading">State Of The Art</div>Solve the twenty-five most recent problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 0 / 25</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=41">One In A Hundred<span><div class="heading">One In A Hundred</div>Be among the first hundred to solve a problem</span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=42">Chart Topper<span><div class="heading">Chart Topper</div>Be among the first ten to solve a problem</span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=43">Gold Medal<span><div class="heading">Gold Medal</div>The first to solve a problem</span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=51">Easy Prey<span><div class="heading">Easy Prey</div>Solve twenty-five of the fifty easiest problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 10 / 25</div></span></a></div>
-</td>
-<td>
-<div class="info"><a href="award=52">Big Game Hunter<span><div class="heading">Big Game Hunter</div>Solve twenty-five of the fifty hardest problems<div style="font-size:85%;font-weight:bold;color:#444;">Progress: 0 / 25</div></span></a></div>
-</td>
-</tr>
-</table>
-</div>
 
 
 

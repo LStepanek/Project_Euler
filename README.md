@@ -10,7 +10,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 ## My Problem Solving Awards
 
-<table align="center" width="50%" border="0">
+<table align="center">
   <tr>
     <td>
       <img

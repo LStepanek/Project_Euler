@@ -34,12 +34,9 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 
 <div align="center">
- <img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="right" style="float:right"/>
- <img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="left" style="float:left" />
- <div id="content" align="center"> 
-     <img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="center" />
- </div>
- </div>
+  <img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="right" style="float:right"/>
+  <img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="left" style="float:left" />
+</div>
  
  
 

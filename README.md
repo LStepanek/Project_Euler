@@ -11,37 +11,20 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 ## My Problem Solving Awards
 
 
-<center>
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="left"
-      />
-    </td>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="center"
-      />
-    </td>
-    <td>
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        alt=""
-        style="width:200px"
-        align="right"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://projecteuler.net/images/awards/award_01.png"
+    alt=""
+    style="width:200px"
+    align="left"
+  />
+  <img
+    src="https://projecteuler.net/images/awards/award_01.png"
+    alt=""
+    style="width:200px"
+    align="center"
+  />
 </p>
-</center>
 
 
 ## Problems and Solutions

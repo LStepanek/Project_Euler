@@ -17,13 +17,13 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
     alt=""
     style="width:200px"
     align="left"
-  />
+  >
   <img
     src="https://projecteuler.net/images/awards/award_01.png"
     alt=""
     style="width:200px"
     align="center"
-  />
+  >
 </p>
 
 

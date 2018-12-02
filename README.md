@@ -10,11 +10,32 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 ## My Problem Solving Awards
 
-<table width="100%" border="0">
+<table width="50%" border="0">
   <tr>
-    <td><img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="left" /></td>
-    <td><img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="center" /></td>
-    <td><img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="right"/></td>
+    <td>
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        alt=""
+        style="width:200px"
+        align="left"
+      />
+    </td>
+    <td>
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        alt=""
+        style="width:200px"
+        align="center"
+      />
+    </td>
+    <td>
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        alt=""
+        style="width:200px"
+        align="right"
+      />
+    </td>
   </tr>
 </table>
 

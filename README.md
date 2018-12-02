@@ -13,22 +13,22 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 <table align="center" width="50%" border="0">
   <tr>
-    <td>
+    <td align = "center" width = "100px">
       <img
         src="https://projecteuler.net/images/awards/award_01.png"
         alt=""
-        style="width:100px"
+        style="width:100%"
         align="center"
       >
     </td>
     <td align = "center" width = "100px">
       The Journey Begins
     </td>
-    <td>
+    <td align = "center" width = "100px">
       <img
         src="https://projecteuler.net/images/awards/award_03.png"
         alt=""
-        style="width:100px"
+        style="width:100%"
         align="center"
       >
     </td>

@@ -17,34 +17,34 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
       <img
         src="https://projecteuler.net/images/awards/award_01.png"
         alt=""
-        style="width:200px"
-        align="left"
+        style="width:100px"
+        align="center"
       >
     </td>
-    <td align = "center" width = "200px">
+    <td align = "center" width = "100px">
       The Journey Begins
     </td>
     <td>
       <img
         src="https://projecteuler.net/images/awards/award_03.png"
         alt=""
-        style="width:200px"
-        align="right"
+        style="width:100px"
+        align="center"
       >
     </td>
-    <td align = "center" width = "200px">
+    <td align = "center" width = "100px">
       Flawless Fifty
     </td>
-    <td align = "center" width = "200px">
+    <td align = "center" width = "100px">
       Flawless Fifty
     </td>
-    <td align = "center" width = "200px">
+    <td align = "center" width = "100px">
       Flawless Fifty
     </td>
-    <td align = "center" width = "200px">
+    <td align = "center" width = "100px">
       Flawless Fifty
     </td>
-    <td align = "center" width = "200px">
+    <td align = "center" width = "100px">
       Flawless Fifty
     </td>
   </tr>

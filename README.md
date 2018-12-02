@@ -11,6 +11,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 ## My Problem Solving Awards
 
 
+<center>
 <table align="center" width="50%" border="0">
   <tr>
     <td align = "center" width = "100px">
@@ -36,22 +37,20 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
       Flawless Fifty
     </td>
     <td align = "center" width = "100px">
-      Flawless Fifty
+      C for Commitment
     </td>
     <td align = "center" width = "100px">
-      Flawless Fifty
+      CC for Continued Commitment
     </td>
     <td align = "center" width = "100px">
-      Flawless Fifty
+      D for Dedication
     </td>
     <td align = "center" width = "100px">
-      Flawless Fifty
+      As Easy As Pi
     </td>
   </tr>
 </table>
-
-
-
+</center>
 
 
 ## Problems and Solutions

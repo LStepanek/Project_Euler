@@ -11,7 +11,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 ## My Problem Solving Awards
 
 
-<table align="center" width="100%" border="0">
+<table align="center" width="50%" border="0">
   <tr>
     <td>
       <img
@@ -26,7 +26,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
         src="https://projecteuler.net/images/awards/award_01.png"
         alt=""
         style="width:200px"
-        align="left"
+        align="right"
       >
     </td>
   </tr>

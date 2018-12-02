@@ -16,7 +16,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
     <td align = "center" width = "12.5%">
       <img
         src="https://projecteuler.net/images/awards/award_01.png"
-        alt="Baby Steps -- Solve three problems"
+        title="Baby Steps -- Solve three problems"
         style="width:100%"
         align="center"
       >
@@ -27,7 +27,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
     <td align = "center" width = "12.5%">
       <img
         src="https://projecteuler.net/images/awards/award_03.png"
-        alt="Decathlete -- Solve ten consecutive problems"
+        title="Decathlete -- Solve ten consecutive problems"
         style="width:100%"
         align="center"
       >

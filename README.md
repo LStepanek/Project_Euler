@@ -10,22 +10,13 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 ## My Problem Solving Awards
 
-<div class="row">
-  <div class="column">
-    <img
-      src="https://projecteuler.net/images/awards/award_01.png"
-      alt="Baby Steps -- Solve three problems"
-      style="width:100%"
-    >
-  </div>
-  <div class="column">
-    <img
-      src="https://projecteuler.net/images/awards/award_03.png"
-      alt="Decathlete -- Solve ten consecutive problems"
-      style="width:100%"
-    >
-  </div>
-</div> 
+<table width="100%" border="0">
+  <tr>
+    <td><img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="left" /></td>
+    <td><img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="center" /></td>
+    <td><img src="https://projecteuler.net/images/awards/award_01.png" alt="" align="right"/></td>
+  </tr>
+</table>
 
 
 ## Problems and Solutions

@@ -8,6 +8,26 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 </p>
 
 
+## My Problem Solving Awards
+
+<div class="row">
+  <div class="column">
+    <img
+      src="https://projecteuler.net/images/awards/award_01.png"
+      alt="Baby Steps -- Solve three problems"
+      style="width:100%"
+    >
+  </div>
+  <div class="column">
+    <img
+      src="https://projecteuler.net/images/awards/award_03.png"
+      alt="Decathlete -- Solve ten consecutive problems"
+      style="width:100%"
+    >
+  </div>
+</div> 
+
+
 ## Problems and Solutions
 
 - Problem 1: [Multiples of 3 and 5](https://projecteuler.net/problem=1). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0001_multiples_of_3_and_5_.R).

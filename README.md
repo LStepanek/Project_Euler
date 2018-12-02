@@ -20,10 +20,10 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 8: [Largest product in a series](https://projecteuler.net/problem=8). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0008_largest_product_in_a_series_.R).
 - Problem 9: [Special Pythagorean triplet](https://projecteuler.net/problem=9). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0009_special_pythagorean_triplet_.R).
 - Problem 10: [Summation of primes](https://projecteuler.net/problem=10). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0010_summation_of_primes_.R).
+- Problem 11: [Largest product in a grid](https://projecteuler.net/problem=11). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0011_largest_product_in_a_grid_.R).
 
 
 
 ---
 
 <b>DISCLAIMER</b>. Since Project Euler advises against sharing codes with solutions, please DO NOT browse through my codes unless you have solved the problems yourself! If hints are what you are looking for, you will not find them here.
-

@@ -10,7 +10,6 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 ## My Problem Solving Awards
 
-
 <table align="center" width="100%" border="0">
   <tr>
     <td align = "center" width = "12.5%">

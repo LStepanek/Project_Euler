@@ -76,13 +76,15 @@ my_grid <- matrix(
 )
 
 
+## -----------------------------------------------------------------------------
+
 my_output <- -Inf
 
 for(i in 1:dim(my_grid)[1]){
     
     for(j in 1:dim(my_grid)[2]){
         
-        ## I am calculating products in a row ---------------------------------
+        ## I am calculating products in a row ----------------------------------
         
         if(
             j + k - 1 <= n
@@ -95,7 +97,7 @@ for(i in 1:dim(my_grid)[1]){
         }
         
         
-        ## I am calculating products in a column ------------------------------
+        ## I am calculating products in a column -------------------------------
         
         if(
             i + k - 1 <= n
@@ -108,7 +110,7 @@ for(i in 1:dim(my_grid)[1]){
         }
         
         
-        ## I am calculating products diagonally -------------------------------
+        ## I am calculating products diagonally --------------------------------
         
         if(
             j + k - 1 <= n &
@@ -152,6 +154,8 @@ for(i in 1:dim(my_grid)[1]){
     
 }
 
+
+## -----------------------------------------------------------------------------
 
 print(
     my_output

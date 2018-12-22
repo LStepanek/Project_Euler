@@ -67,7 +67,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 13: [Large sum](https://projecteuler.net/problem=13). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0013_large_sum_.R).
 - Problem 14: [Longest Collatz sequence](https://projecteuler.net/problem=14). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0014_longest_collatz_sequence_.R)
 - Problem 15: [Lattice paths](https://projecteuler.net/problem=15). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0015_lattice_paths_.R)
-
+- Problem 16: [Power digit sum](https://projecteuler.net/problem=16). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0016_power_digit_sum_.R)
 
 
 

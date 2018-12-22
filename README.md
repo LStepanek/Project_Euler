@@ -65,6 +65,9 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 11: [Largest product in a grid](https://projecteuler.net/problem=11). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0011_largest_product_in_a_grid_.R).
 - Problem 12: [Highly divisible triangular number](https://projecteuler.net/problem=12). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0012_highly_divisible_triangular_number_.R).
 - Problem 13: [Large sum](https://projecteuler.net/problem=13). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0013_large_sum_.R).
+- Problem 14: [Longest Collatz sequence](https://projecteuler.net/problem=14). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0014_longest_collatz_sequence_.R)
+- Problem 15: [Lattice paths](https://projecteuler.net/problem=15). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0015_lattice_paths_.R)
+
 
 
 

@@ -64,7 +64,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 10: [Summation of primes](https://projecteuler.net/problem=10). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0010_summation_of_primes_.R).
 - Problem 11: [Largest product in a grid](https://projecteuler.net/problem=11). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0011_largest_product_in_a_grid_.R).
 - Problem 12: [Highly divisible triangular number](https://projecteuler.net/problem=12). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0012_highly_divisible_triangular_number_.R).
-- Problem 13: [Large sum](https://projecteuler.net/problem=13). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0012_large_sum_.R).
+- Problem 13: [Large sum](https://projecteuler.net/problem=13). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0013_large_sum_.R).
 
 
 

@@ -70,7 +70,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 16: [Power digit sum](https://projecteuler.net/problem=16). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0016_power_digit_sum_.R)
 - Problem 17: [Number letter counts](https://projecteuler.net/problem=17). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0017_number_letter_counts_.R)
 - Problem 18: [Maximum path sum I](https://projecteuler.net/problem=18). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0018_maximum_path_sum_i_.R)
-
+- Problem 19: [Counting Sundays](https://projecteuler.net/problem=19). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0019_counting_sundays_.R)
 
 
 

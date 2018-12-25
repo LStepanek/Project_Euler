@@ -74,6 +74,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 20: [Factorial digit sum](https://projecteuler.net/problem=20). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0020_factorial_digit_sum_.R).
 - Problem 21: [Amicable numbers](https://projecteuler.net/problem=21). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0021_amicable_numbers_.R).
 - Problem 22: [Names scores](https://projecteuler.net/problem=22). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0022_names_scores_.R).
+- Problem 23: [Non-abundant sums](https://projecteuler.net/problem=23). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0023_non_abundant_sums_.R).
 
 
 

@@ -75,6 +75,9 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 21: [Amicable numbers](https://projecteuler.net/problem=21). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0021_amicable_numbers_.R).
 - Problem 22: [Names scores](https://projecteuler.net/problem=22). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0022_names_scores_.R).
 - Problem 23: [Non-abundant sums](https://projecteuler.net/problem=23). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0023_non_abundant_sums_.R).
+- Problem 24: [Lexicographic permutations](https://projecteuler.net/problem=24). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0024_lexicographic_permutations_.R).
+
+
 
 
 

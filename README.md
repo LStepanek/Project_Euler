@@ -77,7 +77,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 23: [Non-abundant sums](https://projecteuler.net/problem=23). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0023_non_abundant_sums_.R).
 - Problem 24: [Lexicographic permutations](https://projecteuler.net/problem=24). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0024_lexicographic_permutations_.R).
 - Problem 25: [1000-digit Fibonacci number](https://projecteuler.net/problem=25). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0025_1000_digit_fibonacci_number_.R).
-
+- Problem 26: [Reciprocal cycles](https://projecteuler.net/problem=26). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0026_reciprocal_cycles_.R).
 
 
 

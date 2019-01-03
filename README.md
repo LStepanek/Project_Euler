@@ -80,6 +80,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 26: [Reciprocal cycles](https://projecteuler.net/problem=26). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0026_reciprocal_cycles_.R).
 - Problem 27: [Quadratic primes](https://projecteuler.net/problem=27). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0027_quadratic_primes_.R).
 - Problem 28: [Number spiral diagonals](https://projecteuler.net/problem=28). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0028_number_spiral_diagonals_.R).
+- Problem 29: [Distinct powers](https://projecteuler.net/problem=29). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0029_distinct_powers_.R).
 
 
 

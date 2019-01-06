@@ -53,14 +53,14 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
     </td>
   </tr>
   <tr>
-    <td style="height:0px;"></td>
-    <td style="height:0px;"></td>
-    <td style="height:0px;"></td>
-    <td style="height:0px;"></td>
-    <td style="height:0px;"></td>
-    <td style="height:0px;"></td>
-    <td style="height:0px;"></td>
-    <td style="height:0px;"></td>
+    <td style="height:1px;"></td>
+    <td style="height:1px;"></td>
+    <td style="height:1px;"></td>
+    <td style="height:1px;"></td>
+    <td style="height:1px;"></td>
+    <td style="height:1px;"></td>
+    <td style="height:1px;"></td>
+    <td style="height:1px;"></td>
   </tr>
   <tr>
     <td align = "center" width = "12.5%">

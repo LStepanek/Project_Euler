@@ -52,7 +52,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
       As Easy As Pi
     </td>
   </tr>
-  <tr>
+  <tr bgcolor="white">
     <td align = "center" width = "12.5%">
       <img
         src="https://projecteuler.net/images/awards/award_01.png"

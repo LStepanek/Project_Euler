@@ -93,6 +93,47 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
       As Easy As Pi
     </td>
   </tr>
+  <tr>
+    <td align = "center" width = "12.5%">
+      <img
+        src="https://projecteuler.net/images/awards/award_01.png"
+        title="Baby Steps -- Solve three problems"
+        style="width:100%"
+        align="center"
+      >
+    </td>
+    <td align = "center" width = "12.5%">
+      <img
+        src="https://projecteuler.net/images/awards/award_02.png"
+        title="The Journey Begins"
+        style="width:100%"
+        align="center"
+      >
+    </td>
+    <td align = "center" width = "12.5%">
+      <img
+        src="https://projecteuler.net/images/awards/award_03.png"
+        title="Decathlete -- Solve ten consecutive problems"
+        style="width:100%"
+        align="center"
+      >
+    </td>
+    <td align = "center" width = "12.5%">
+      Flawless Fifty
+    </td>
+    <td align = "center" width = "12.5%">
+      C for Commitment
+    </td>
+    <td align = "center" width = "12.5%">
+      CC for Continued Commitment
+    </td>
+    <td align = "center" width = "12.5%">
+      D for Dedication
+    </td>
+    <td align = "center" width = "12.5%">
+      As Easy As Pi
+    </td>
+  </tr>
 </table>
 
 

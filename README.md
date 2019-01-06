@@ -23,7 +23,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
     <td align = "center" width = "12.5%">
       <img
         src="https://projecteuler.net/images/awards/award_02.png"
-        title="The Journey Begins"
+        title="The Journey Begins -- Progress to Level 1 by solving twenty-five problems"
         style="width:100%"
         align="center"
       >
@@ -54,84 +54,33 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
   </tr>
   <tr>
     <td align = "center" width = "12.5%">
+      High Five
+    </td>
+    <td align = "center" width = "12.5%">
+      Ten Out Of Ten
+    </td>
+    <td align = "center" width = "12.5%">
+      State Of The Art
+    </td>
+    <td align = "center" width = "12.5%">
+      One In A Hundred
+    </td>
+    <td align = "center" width = "12.5%">
+      Chart Topper
+    </td>
+    <td align = "center" width = "12.5%">
+      Gold Medal
+    </td>
+    <td align = "center" width = "12.5%">
       <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        title="Baby Steps -- Solve three problems"
+        src="https://projecteuler.net/images/awards/award_51.png"
+        title="Easy Prey -- Solve twenty-five of the fifty easiest problems"
         style="width:100%"
         align="center"
       >
     </td>
     <td align = "center" width = "12.5%">
-      <img
-        src="https://projecteuler.net/images/awards/award_02.png"
-        title="The Journey Begins"
-        style="width:100%"
-        align="center"
-      >
-    </td>
-    <td align = "center" width = "12.5%">
-      <img
-        src="https://projecteuler.net/images/awards/award_03.png"
-        title="Decathlete -- Solve ten consecutive problems"
-        style="width:100%"
-        align="center"
-      >
-    </td>
-    <td align = "center" width = "12.5%">
-      Flawless Fifty
-    </td>
-    <td align = "center" width = "12.5%">
-      C for Commitment
-    </td>
-    <td align = "center" width = "12.5%">
-      CC for Continued Commitment
-    </td>
-    <td align = "center" width = "12.5%">
-      D for Dedication
-    </td>
-    <td align = "center" width = "12.5%">
-      As Easy As Pi
-    </td>
-  </tr>
-  <tr>
-    <td align = "center" width = "12.5%">
-      <img
-        src="https://projecteuler.net/images/awards/award_01.png"
-        title="Baby Steps -- Solve three problems"
-        style="width:100%"
-        align="center"
-      >
-    </td>
-    <td align = "center" width = "12.5%">
-      <img
-        src="https://projecteuler.net/images/awards/award_02.png"
-        title="The Journey Begins"
-        style="width:100%"
-        align="center"
-      >
-    </td>
-    <td align = "center" width = "12.5%">
-      <img
-        src="https://projecteuler.net/images/awards/award_03.png"
-        title="Decathlete -- Solve ten consecutive problems"
-        style="width:100%"
-        align="center"
-      >
-    </td>
-    <td align = "center" width = "12.5%">
-      Flawless Fifty
-    </td>
-    <td align = "center" width = "12.5%">
-      C for Commitment
-    </td>
-    <td align = "center" width = "12.5%">
-      CC for Continued Commitment
-    </td>
-    <td align = "center" width = "12.5%">
-      D for Dedication
-    </td>
-    <td align = "center" width = "12.5%">
-      As Easy As Pi
+      Big Game Hunter
     </td>
   </tr>
 </table>

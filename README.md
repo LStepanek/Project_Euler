@@ -11,7 +11,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 ## My Problem Solving Awards
 
 <table align="center" width="100%" border="0">
-  <tr bgcolor="red">
+  <tr>
     <td align = "center" width = "12.5%">
       <img
         src="https://projecteuler.net/images/awards/award_01.png"

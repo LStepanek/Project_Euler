@@ -21,7 +21,12 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
       >
     </td>
     <td align = "center" width = "12.5%">
-      The Journey Begins
+      <img
+        src="https://projecteuler.net/images/awards/award_02.png"
+        title="The Journey Begins"
+        style="width:100%"
+        align="center"
+      >
     </td>
     <td align = "center" width = "12.5%">
       <img

@@ -136,7 +136,6 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 
 
 
-
 ---
 
 <b>DISCLAIMER</b>. Since Project Euler advises against sharing codes with solutions, please DO NOT browse through my codes unless you have solved the problems yourself! If hints are what you are looking for, you will not find them here.

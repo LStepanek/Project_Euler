@@ -14,7 +14,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
   <tr>
     <td align = "center" width = "12.5%">
       <img
-        src="https://projecteuler.net/images/awards/award_01.png"
+        src="https://projecteuler.net/images/awards/award_01.png"Cancel changes
         title="Baby Steps -- Solve three problems"
         style="width:100%"
         align="center"
@@ -128,6 +128,7 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 28: [Number spiral diagonals](https://projecteuler.net/problem=28). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0028_number_spiral_diagonals_.R).
 - Problem 29: [Distinct powers](https://projecteuler.net/problem=29). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0029_distinct_powers_.R).
 - Problem 30: [Digit fifth powers](https://projecteuler.net/problem=30). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0030_digit_fifth_powers_.R).
+
 
 
 

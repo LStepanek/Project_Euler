@@ -129,10 +129,6 @@ My solutions to [Project Euler](https://projecteuler.net/) problems. I usually u
 - Problem 29: [Distinct powers](https://projecteuler.net/problem=29). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0029_distinct_powers_.R).
 - Problem 30: [Digit fifth powers](https://projecteuler.net/problem=30). My solution is [here](https://github.com/LStepanek/Project-Euler/blob/master/_0030_digit_fifth_powers_.R).
 
-
-
-
-
 ---
 
 <b>DISCLAIMER</b>. Since Project Euler advises against sharing codes with solutions, please DO NOT browse through my codes unless you have solved the problems yourself! If hints are what you are looking for, you will not find them here.
